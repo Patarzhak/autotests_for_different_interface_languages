@@ -1,0 +1,2 @@
+# autotests_for_different_interface_languages
+Запуск автотестов для разных языков интерфейса
